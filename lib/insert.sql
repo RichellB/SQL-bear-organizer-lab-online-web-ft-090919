@@ -1,1 +1,1 @@
-INSERT INTO bears(name, age, gender, color, temparament, alive) VALUES ("Mr. Chocolate", 20, "F", "Red", "Angry")
+INSERT INTO bears(name, age, gender, color, temparament, alive) VALUES ("Mr. Chocolate", 20, "F", "Red", "Angry", 1);
